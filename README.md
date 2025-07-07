@@ -7,7 +7,7 @@ FullStack Developer
 I've been working as FullStack Developer for over 3 years and I am good with Python, Flask, Angular, React and Typescript, and have hands-on experience in Docker, Kubernetes, and Microservices architecture. Can also work with React and Next.
 
 * 🌍  I'm based in India
-* 🤝  I'm open to collaborating on Python and Angular projects
+* 🤝  I'm open to collaborating on Python, Angular and React projects
 
 ### Skills
 
